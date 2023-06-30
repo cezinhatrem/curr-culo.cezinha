@@ -1,0 +1,36 @@
+    h1 {
+        text-align: center;
+    }
+    
+    .section {
+        margin-bottom: 20px;
+    }
+    
+    .section h2 {
+        margin-bottom: 10px;
+    }
+    
+    .section p {
+        margin: 0;
+    }
+    
+    .section ul {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+    }
+    
+    .section ul li {
+        display: flex;
+        align-items: flex-start;
+        margin-bottom: 5px;
+    }
+    
+    .section ul li .title {
+        font-weight: bold;
+    }
+    
+    .section ul li .description {
+        margin-left: 5px;
+    }
+</style>
